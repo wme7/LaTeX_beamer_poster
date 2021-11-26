@@ -2,9 +2,10 @@
 Module's sample files and figures:
 
 ## Complementary material in `figures/` : 
-<img src="./figures/carbonifera.png" alt="TeX-logo" width="200"/>
-<img src="./figures/TecNM.png" alt="Uni-Logo" width="200"/>
-<img src="./figures/background.jpg" alt="Uni-Logo" width="200"/>
+<img src="./figures/carbonifera.png" alt="Carbonifera-logo" width="200"/>
+<img src="./figures/TecNM.png" alt="TecNM-Logo" width="200"/>
+<img src="./figures/background.jpg" alt="Background figure" width="200"/>
+<img src="./figures/PaperSizesReference.jpg" alt="Postes sizes" width="200"/>
 
 ## References
 1. Templates in [Overleaf](https://www.markdownguide.org/cheat-sheet/).
